@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me www.linkedin.com/in/syed-arman-ali-814959288
+  
 
 <!---
 SyedArmanAli2003/SyedArmanAli2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
