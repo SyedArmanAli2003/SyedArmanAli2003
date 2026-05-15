@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Syed Arman Ali
-- 👀 I’m enthusiast in data science and programming
+- 👋 Hi, I’m Arman
+- 👀 I’m enthusiast in AI,ML and Programming
 - 🌱 I’m currently learning data science and it's application 
 - 💞️ I’m looking to collaborate on Ai based projects
 - 😎 Pro Vibe coder ,"I can build deployable products people pay for"
