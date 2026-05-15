@@ -2,7 +2,7 @@
 - 👀 I’m enthusiast in data science and programming
 - 🌱 I’m currently learning data science and it's application 
 - 💞️ I’m looking to collaborate on Ai based projects
-- 😎 Pro Vibe coder
+- 😎 Pro Vibe coder ,"I can build deployable products people pay for"
   
 
 <!---
